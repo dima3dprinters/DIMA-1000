@@ -48,7 +48,7 @@
 #endif
 
 // Define this to set a custom name for your generic Mendel,
- #define CUSTOM_MENDEL_NAME "DIMA 1000"
+ #define CUSTOM_MENDEL_NAME "DIMA 1000 MOD4"
 
 // Define this to set a unique identifier for this printer, (Used by some programs to differentiate between machines)
 // You can use an online service to generate a random UUID. (eg http://www.uuidgenerator.net/version4)
@@ -347,7 +347,7 @@ const bool Z_MAX_ENDSTOP_INVERTING = true; // set to true to invert the logic of
 #define X_MIN_POS 0
 #define Y_MAX_POS 255
 #define Y_MIN_POS 0
-#define Z_MAX_POS 250
+#define Z_MAX_POS 330
 #define Z_MIN_POS 0
 
 #define X_MAX_LENGTH (X_MAX_POS - X_MIN_POS)
