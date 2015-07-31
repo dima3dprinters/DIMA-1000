@@ -1680,7 +1680,7 @@
  #if (TEMP_SENSOR_2==-1)
   #define TEMP_2_PIN         7    // ANALOG NUMBERING - connector *K3* on RUMBA thermocouple ADD ON is used <-- this can not be used when TEMP_SENSOR_BED is defined as thermocouple
  #else
-  #define TEMP_2_PIN         13   // ANALOG NUMBERING - default connector for thermistor *T2* on rumba board is used
+  #define TEMP_2_PIN         11   // ANALOG NUMBERING - default connector for thermistor *T2* on rumba board is used
  #endif
 #endif
 
@@ -1695,7 +1695,7 @@
  #if (TEMP_SENSOR_BED==-1)
   #define TEMP_BED_PIN       7    // ANALOG NUMBERING - connector *K3* on RUMBA thermocouple ADD ON is used <-- this can not be used when TEMP_SENSOR_2 is defined as thermocouple
  #else
-  #define TEMP_BED_PIN       11   // ANALOG NUMBERING - default connector for thermistor *THB* on rumba board is used
+  #define TEMP_BED_PIN       13   // ANALOG NUMBERING - default connector for thermistor *THB* on rumba board is used
  #endif
 #endif
 
@@ -1709,8 +1709,8 @@
 #define LCD_PINS_D5        38
 #define LCD_PINS_D6        41
 #define LCD_PINS_D7        40
-#define BTN_EN1            11
-#define BTN_EN2            12
+#define BTN_EN1            12
+#define BTN_EN2            11
 #define BTN_ENC            43
 
 #endif // RUMBA
