@@ -154,6 +154,7 @@
     #define MSG_HOME "Llevar al origen"
     #define MSG_PREHEAT_FLEX_SETTINGS "Ajustar temp. Flex."
     #define MSG_VARIARTEMP            "Temp.Extr."
+    #define MSG_VARIARTEMPCAMA            "Temp.Cama"
     #define MSG_RETIRARFILA            "Retirar filam."
     #define MSG_INSERTARFILA            "Insertar filam."
 

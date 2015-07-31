@@ -837,7 +837,10 @@ static void lcd_control_menu()
     START_MENU();
     MENU_ITEM(back, MSG_MAIN, lcd_main_menu);
     #if TEMP_SENSOR_0 != 0
-        MENU_ITEM_EDIT(int3, MSG_VARIARTEMP, &target_temperature[0], 0, HEATER_0_MAXTEMP - 15);
+        MENU_ITEM_EDIT(int3, MSG_VARIARTEMP, &target_temperature[0], 0, HEATER_0_MAXTEMP );
+    #endif
+    #if TEMP_SENSOR_BED != 0
+        MENU_ITEM_EDIT(int3, MSG_VARIARTEMPCAMA, &target_temperature_bed, 0, BED_MAXTEMP );
     #endif
     //MENU_ITEM(submenu, MSG_TEMPERATURE, lcd_control_temperature_menu);
 	MENU_ITEM(submenu, MSG_MOVE_AXIS, lcd_move_menu);

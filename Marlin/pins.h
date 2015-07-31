@@ -1628,6 +1628,10 @@
 #define Z_MIN_PIN          33
 #define Z_MAX_PIN          32
 
+#define Z2_STEP_PIN        26
+#define Z2_DIR_PIN         25
+#define Z2_ENABLE_PIN      27
+
 #define E0_STEP_PIN        23
 #define E0_DIR_PIN         22
 #define E0_ENABLE_PIN      24
@@ -1709,8 +1713,8 @@
 #define LCD_PINS_D5        38
 #define LCD_PINS_D6        41
 #define LCD_PINS_D7        40
-#define BTN_EN1            11
-#define BTN_EN2            12
+#define BTN_EN1            12
+#define BTN_EN2            11
 #define BTN_ENC            43
 
 #endif // RUMBA

@@ -36,7 +36,7 @@
   #define MACHINE_NAME "Ultimaker"
   #define FIRMWARE_URL "http://firmware.ultimaker.com"
 #elif MB(RUMBA)
-  #define MACHINE_NAME "Rumba"
+  #define MACHINE_NAME CUSTOM_MENDEL_NAME
   #define FIRMWARE_URL "https://github.com/MarlinFirmware/Marlin"
 #elif MB(3DRAG)
   #define MACHINE_NAME "3Drag"

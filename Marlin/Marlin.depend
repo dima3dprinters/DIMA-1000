@@ -1233,3 +1233,1180 @@
 	"LiquidCrystalRus.h"
 	<LiquidCrystal.h>
 
+1438347853 source:c:\datos\github\dima\dima-1000\marlin\blinkm.cpp
+	"Marlin.h"
+	"Arduino.h"
+	"WProgram.h"
+	"BlinkM.h"
+
+1438347853 c:\datos\github\dima\dima-1000\marlin\marlin.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<inttypes.h>
+	<util/delay.h>
+	<avr/pgmspace.h>
+	<avr/eeprom.h>
+	<avr/interrupt.h>
+	"fastio.h"
+	"Configuration.h"
+	"pins.h"
+	"Arduino.h"
+	"WProgram.h"
+	"HardwareSerial.h"
+	"MarlinSerial.h"
+	"WString.h"
+
+1438347854 c:\datos\github\dima\dima-1000\marlin\fastio.h
+	<avr/io.h>
+
+1438349529 c:\datos\github\dima\dima-1000\marlin\configuration.h
+	"boards.h"
+	"Configuration_adv.h"
+	"thermistortables.h"
+
+1438347854 c:\datos\github\dima\dima-1000\marlin\boards.h
+
+1438349812 c:\datos\github\dima\dima-1000\marlin\configuration_adv.h
+
+1438347855 c:\datos\github\dima\dima-1000\marlin\thermistortables.h
+	"Marlin.h"
+
+1438349902 c:\datos\github\dima\dima-1000\marlin\pins.h
+	"boards.h"
+
+1438347853 c:\datos\github\dima\dima-1000\marlin\marlinserial.h
+	"Marlin.h"
+
+1438347853 c:\datos\github\dima\dima-1000\marlin\blinkm.h
+	"Arduino.h"
+	"WProgram.h"
+	"Wire.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\cardreader.cpp
+	"Marlin.h"
+	"cardreader.h"
+	"ultralcd.h"
+	"stepper.h"
+	"temperature.h"
+	"language.h"
+
+1438347854 c:\datos\github\dima\dima-1000\marlin\cardreader.h
+	"SdFile.h"
+
+1438347853 c:\datos\github\dima\dima-1000\marlin\sdfile.h
+	"Marlin.h"
+	"SdBaseFile.h"
+	<Print.h>
+
+1438347853 c:\datos\github\dima\dima-1000\marlin\sdbasefile.h
+	"Marlin.h"
+	"Marlin.h"
+	"SdFatConfig.h"
+	"SdVolume.h"
+
+1438347853 c:\datos\github\dima\dima-1000\marlin\sdfatconfig.h
+	"Marlin.h"
+	<stdint.h>
+
+1438347853 c:\datos\github\dima\dima-1000\marlin\sdvolume.h
+	"Marlin.h"
+	"SdFatConfig.h"
+	"Sd2Card.h"
+	"SdFatStructs.h"
+
+1438347853 c:\datos\github\dima\dima-1000\marlin\sd2card.h
+	"Marlin.h"
+	"SdFatConfig.h"
+	"Sd2PinMap.h"
+	"SdInfo.h"
+
+1438347853 c:\datos\github\dima\dima-1000\marlin\sd2pinmap.h
+	"Marlin.h"
+	<avr/io.h>
+
+1438347853 c:\datos\github\dima\dima-1000\marlin\sdinfo.h
+	"Marlin.h"
+	<stdint.h>
+
+1438347853 c:\datos\github\dima\dima-1000\marlin\sdfatstructs.h
+	"Marlin.h"
+
+1438347855 c:\datos\github\dima\dima-1000\marlin\ultralcd.h
+	"Marlin.h"
+
+1438347855 c:\datos\github\dima\dima-1000\marlin\stepper.h
+	"planner.h"
+
+1438347855 c:\datos\github\dima\dima-1000\marlin\planner.h
+	"Marlin.h"
+	"vector_3.h"
+
+1438347855 c:\datos\github\dima\dima-1000\marlin\vector_3.h
+
+1438347855 c:\datos\github\dima\dima-1000\marlin\temperature.h
+	"Marlin.h"
+	"planner.h"
+	"stepper.h"
+
+1438348600 c:\datos\github\dima\dima-1000\marlin\language.h
+
+1438347853 source:c:\datos\github\dima\dima-1000\marlin\configurationstore.cpp
+	"Marlin.h"
+	"planner.h"
+	"temperature.h"
+	"ultralcd.h"
+	"ConfigurationStore.h"
+
+1438347853 c:\datos\github\dima\dima-1000\marlin\configurationstore.h
+	"Configuration.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\digipot_mcp4451.cpp
+	"Configuration.h"
+	"Stream.h"
+	"utility/twi.h"
+	"Wire.h"
+
+1438347853 source:c:\datos\github\dima\dima-1000\marlin\hysteresis.cpp
+	"Hysteresis.h"
+	"Configuration.h"
+	"Marlin.h"
+	"planner.h"
+	"stepper.h"
+	"temperature.h"
+	"ultralcd.h"
+	"language.h"
+
+1438347853 c:\datos\github\dima\dima-1000\marlin\hysteresis.h
+	"Configuration.h"
+
+1438347853 source:c:\datos\github\dima\dima-1000\marlin\liquidcrystalrus.cpp
+	"LiquidCrystalRus.h"
+	<stdio.h>
+	<string.h>
+	<inttypes.h>
+	<avr/pgmspace.h>
+	"Arduino.h"
+	"WProgram.h"
+
+1438347853 c:\datos\github\dima\dima-1000\marlin\liquidcrystalrus.h
+	<inttypes.h>
+	"Print.h"
+
+1438347853 source:c:\datos\github\dima\dima-1000\marlin\marlin_main.cpp
+	"Marlin.h"
+	"ultralcd.h"
+	"vector_3.h"
+	"qr_solve.h"
+	"ultralcd.h"
+	"planner.h"
+	"stepper.h"
+	"temperature.h"
+	"motion_control.h"
+	"cardreader.h"
+	"watchdog.h"
+	"ConfigurationStore.h"
+	"language.h"
+	"pins_arduino.h"
+	"math.h"
+	"BlinkM.h"
+	"Wire.h"
+	"Servo.h"
+	<SPI.h>
+	"SdFatUtil.h"
+
+1438347855 c:\datos\github\dima\dima-1000\marlin\qr_solve.h
+	"Configuration.h"
+
+1438347854 c:\datos\github\dima\dima-1000\marlin\motion_control.h
+
+1438347855 c:\datos\github\dima\dima-1000\marlin\watchdog.h
+	"Marlin.h"
+
+1438347853 c:\datos\github\dima\dima-1000\marlin\servo.h
+	<inttypes.h>
+
+1438347853 c:\datos\github\dima\dima-1000\marlin\sdfatutil.h
+	"Marlin.h"
+	"Marlin.h"
+	"MarlinSerial.h"
+
+1438347853 source:c:\datos\github\dima\dima-1000\marlin\marlinserial.cpp
+	"Marlin.h"
+	"MarlinSerial.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\motion_control.cpp
+	"Marlin.h"
+	"stepper.h"
+	"planner.h"
+
+1438347853 source:c:\datos\github\dima\dima-1000\marlin\sd2card.cpp
+	"Marlin.h"
+	"Sd2Card.h"
+
+1438347853 source:c:\datos\github\dima\dima-1000\marlin\sdbasefile.cpp
+	"Marlin.h"
+	"SdBaseFile.h"
+
+1438347853 source:c:\datos\github\dima\dima-1000\marlin\sdfatutil.cpp
+	"Marlin.h"
+	"SdFatUtil.h"
+
+1438347853 source:c:\datos\github\dima\dima-1000\marlin\sdfile.cpp
+	"Marlin.h"
+	"SdFile.h"
+
+1438347853 source:c:\datos\github\dima\dima-1000\marlin\sdvolume.cpp
+	"Marlin.h"
+	"SdVolume.h"
+
+1438347853 source:c:\datos\github\dima\dima-1000\marlin\servo.cpp
+	"Configuration.h"
+	<avr/interrupt.h>
+	<Arduino.h>
+	"Servo.h"
+
+1438347853 source:c:\datos\github\dima\dima-1000\marlin\u8glib\u8glib.cpp
+	"U8glib.h"
+
+1438347853 c:\datos\github\dima\dima-1000\marlin\u8glib\u8glib.h
+	<Print.h>
+	"U8glib/utility/u8g.h"
+
+1438347854 c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g.h
+	<stddef.h>
+	<stdint.h>
+	<avr/pgmspace.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\chessengine.c
+	"u8g.h"
+	<stdio.h>
+	<string.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_bitmap.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_circle.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_clip.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_api.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_api_16gr.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_arduino_attiny85_hw_spi.c
+	"u8g.h"
+	<WProgram.h>
+	<Arduino.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_arduino_common.c
+	"u8g.h"
+	<WProgram.h>
+	<Arduino.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_arduino_fast_parallel.c
+	"u8g.h"
+	<wiring_private.h>
+	<pins_arduino.h>
+	<Arduino.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_arduino_hw_spi.c
+	"u8g.h"
+	<avr/interrupt.h>
+	<avr/io.h>
+	<WProgram.h>
+	<Arduino.h>
+	<Arduino.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_arduino_hw_usart_spi.c
+	"u8g.h"
+	<avr/interrupt.h>
+	<avr/io.h>
+	<WProgram.h>
+	<Arduino.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_arduino_no_en_parallel.c
+	"u8g.h"
+	<wiring_private.h>
+	<pins_arduino.h>
+	<Arduino.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_arduino_parallel.c
+	"u8g.h"
+	<WProgram.h>
+	<Arduino.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_arduino_port_d_wr.c
+	"u8g.h"
+	<WProgram.h>
+	<Arduino.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_arduino_ssd_i2c.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_arduino_st7920_custom.c
+	"u8g.h"
+	<WProgram.h>
+	"wiring_private.h"
+	"pins_arduino.h"
+	<Arduino.h>
+	"wiring_private.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_arduino_st7920_hw_spi.c
+	"u8g.h"
+	<WProgram.h>
+	"wiring_private.h"
+	"pins_arduino.h"
+	<Arduino.h>
+	"wiring_private.h"
+	<avr/interrupt.h>
+	<avr/io.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_arduino_st7920_spi.c
+	"u8g.h"
+	<WProgram.h>
+	"wiring_private.h"
+	"pins_arduino.h"
+	<Arduino.h>
+	"wiring_private.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_arduino_std_sw_spi.c
+	"u8g.h"
+	<WProgram.h>
+	<Arduino.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_arduino_sw_spi.c
+	"u8g.h"
+	<WProgram.h>
+	"wiring_private.h"
+	"pins_arduino.h"
+	<Arduino.h>
+	"wiring_private.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_arduino_t6963.c
+	"u8g.h"
+	<wiring_private.h>
+	<pins_arduino.h>
+	<Arduino.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_arduino_uc_i2c.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_atmega_hw_spi.c
+	"u8g.h"
+	<avr/interrupt.h>
+	<avr/io.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_atmega_parallel.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_atmega_st7920_hw_spi.c
+	"u8g.h"
+	<avr/interrupt.h>
+	<avr/io.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_atmega_st7920_spi.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_atmega_sw_spi.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_i2c.c
+	"u8g.h"
+	<avr/io.h>
+	<util/twi.h>
+	"Arduino.h"
+	"sam.h"
+	<wiringPi.h>
+	<wiringPiI2C.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_io.c
+	"u8g.h"
+	<avr/interrupt.h>
+	<avr/io.h>
+	<wiringPi.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_null.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_raspberrypi_hw_spi.c
+	"u8g.h"
+	<wiringPiSPI.h>
+	<wiringPi.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_com_raspberrypi_ssd_i2c.c
+	"u8g.h"
+	<wiringPi.h>
+	<wiringPiI2C.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_cursor.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_delay.c
+	"u8g.h"
+	<WProgram.h>
+	<Arduino.h>
+	<wiringPi.h>
+	<avr/interrupt.h>
+	<avr/io.h>
+	<util/delay.h>
+	<delays.h>
+	"plib.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_a2_micro_printer.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_flipdisc_2x7.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_gprof.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_ht1632.c
+	"u8g.h"
+	<WProgram.h>
+	<Arduino.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_ili9325d_320x240.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_ks0108_128x64.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_lc7981_160x80.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_lc7981_240x128.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_lc7981_240x64.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_lc7981_320x64.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_ld7032_60x32.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_null.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_pcd8544_84x48.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_pcf8812_96x65.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_sbn1661_122x32.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_ssd1306_128x32.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_ssd1306_128x64.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_ssd1309_128x64.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_ssd1322_nhd31oled_bw.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_ssd1322_nhd31oled_gr.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_ssd1325_nhd27oled_bw.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_ssd1325_nhd27oled_bw_new.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_ssd1325_nhd27oled_gr.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_ssd1325_nhd27oled_gr_new.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_ssd1327_96x96_gr.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_ssd1351_128x128.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_st7565_64128n.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_st7565_dogm128.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_st7565_dogm132.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_st7565_lm6059.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_st7565_lm6063.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_st7565_nhd_c12832.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_st7565_nhd_c12864.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_st7687_c144mvgd.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_st7920_128x64.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_st7920_192x32.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_st7920_202x32.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_t6963_128x128.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_t6963_128x64.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_t6963_240x128.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_t6963_240x64.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_tls8204_84x48.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_uc1601_c128032.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_uc1608_240x128.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_uc1608_240x64.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_uc1610_dogxl160.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_uc1611_dogm240.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_uc1611_dogxl240.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_uc1701_dogs102.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_dev_uc1701_mini12864.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_ellipse.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_font.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_font_data.c
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_line.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_ll_api.c
+	<stddef.h>
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_page.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_pb.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_pb14v1.c
+	"u8g.h"
+	<string.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_pb16h1.c
+	"u8g.h"
+	<string.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_pb16h2.c
+	"u8g.h"
+	<string.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_pb16v1.c
+	"u8g.h"
+	<string.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_pb16v2.c
+	"u8g.h"
+	<string.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_pb32h1.c
+	"u8g.h"
+	<string.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_pb8h1.c
+	"u8g.h"
+	<string.h>
+	<assert.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_pb8h1f.c
+	"u8g.h"
+	<string.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_pb8h2.c
+	"u8g.h"
+	<string.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_pb8h8.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_pb8v1.c
+	"u8g.h"
+	<string.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_pb8v2.c
+	"u8g.h"
+	<string.h>
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_pbxh16.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_pbxh24.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_polygon.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_rect.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_rot.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_scale.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_state.c
+	<stddef.h>
+	"u8g.h"
+	<avr/interrupt.h>
+	<stdio.h>
+	"sam.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_u16toa.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_u8toa.c
+	"u8g.h"
+
+1438347854 source:c:\datos\github\dima\dima-1000\marlin\u8glib\utility\u8g_virtual_screen.c
+	"u8g.h"
+
+1438347855 source:c:\datos\github\dima\dima-1000\marlin\planner.cpp
+	"Marlin.h"
+	"planner.h"
+	"stepper.h"
+	"temperature.h"
+	"ultralcd.h"
+	"language.h"
+	"Hysteresis.h"
+
+1438347855 source:c:\datos\github\dima\dima-1000\marlin\qr_solve.cpp
+	"qr_solve.h"
+	<stdlib.h>
+	<math.h>
+
+1438347855 source:c:\datos\github\dima\dima-1000\marlin\stepper.cpp
+	"Marlin.h"
+	"stepper.h"
+	"planner.h"
+	"temperature.h"
+	"ultralcd.h"
+	"language.h"
+	"cardreader.h"
+	"speed_lookuptable.h"
+	<SPI.h>
+
+1438347855 c:\datos\github\dima\dima-1000\marlin\speed_lookuptable.h
+	"Marlin.h"
+
+1438347855 source:c:\datos\github\dima\dima-1000\marlin\temperature.cpp
+	"Marlin.h"
+	"ultralcd.h"
+	"temperature.h"
+	"watchdog.h"
+	"Sd2PinMap.h"
+
+1438349241 source:c:\datos\github\dima\dima-1000\marlin\ultralcd.cpp
+	"temperature.h"
+	"ultralcd.h"
+	"Marlin.h"
+	"language.h"
+	"cardreader.h"
+	"temperature.h"
+	"stepper.h"
+	"ConfigurationStore.h"
+	"dogm_lcd_implementation.h"
+	"ultralcd_implementation_hitachi_HD44780.h"
+
+1438347854 c:\datos\github\dima\dima-1000\marlin\dogm_lcd_implementation.h
+	"U8glib/U8glib.h"
+	"DOGMbitmaps.h"
+	"dogm_font_data_marlin.h"
+	"ultralcd.h"
+	"ultralcd_st7920_u8glib_rrd.h"
+	"LiquidCrystalRus.h"
+	<LiquidCrystal.h>
+
+1438347853 c:\datos\github\dima\dima-1000\marlin\dogmbitmaps.h
+
+1438347854 c:\datos\github\dima\dima-1000\marlin\dogm_font_data_marlin.h
+	"U8glib/utility/u8g.h"
+	"U8glib/utility/u8g.h"
+
+1438347855 c:\datos\github\dima\dima-1000\marlin\ultralcd_st7920_u8glib_rrd.h
+	"Marlin.h"
+	"U8glib/U8glib.h"
+
+1438347855 c:\datos\github\dima\dima-1000\marlin\ultralcd_implementation_hitachi_hd44780.h
+	<Wire.h>
+	<LCD.h>
+	<LiquidCrystal_I2C.h>
+	<Wire.h>
+	<LiquidTWI2.h>
+	<Wire.h>
+	<LiquidTWI2.h>
+	<LiquidCrystal_I2C.h>
+	<LCD.h>
+	<LiquidCrystal_SR.h>
+	"LiquidCrystalRus.h"
+	<LiquidCrystal.h>
+
+1438347855 source:c:\datos\github\dima\dima-1000\marlin\vector_3.cpp
+	<math.h>
+	"Marlin.h"
+	"vector_3.h"
+
+1438347855 source:c:\datos\github\dima\dima-1000\marlin\watchdog.cpp
+	"Marlin.h"
+	<avr/wdt.h>
+	"watchdog.h"
+	"ultralcd.h"
+

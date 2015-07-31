@@ -48,7 +48,7 @@
 #endif
 
 // Define this to set a custom name for your generic Mendel,
- #define CUSTOM_MENDEL_NAME "DIMA 1000 MOD4"
+ #define CUSTOM_MENDEL_NAME "DIMA1000 4"
 
 // Define this to set a unique identifier for this printer, (Used by some programs to differentiate between machines)
 // You can use an online service to generate a random UUID. (eg http://www.uuidgenerator.net/version4)
@@ -531,7 +531,7 @@ const bool Z_MAX_ENDSTOP_INVERTING = true; // set to true to invert the logic of
 #define EEPROM_CHITCHAT
 
 //DIMA 3D
-#define ACTIVATE_ADVANCED 0 //1 = Activado el menu avanzado, 0 = desactivado
+#define ACTIVATE_ADVANCED 1 //1 = Activado el menu avanzado, 0 = desactivado
 #define HYSTERESIS 0 //1 = Activado el control de histeresis, 0 = desactivado
 
 // Preheat Constants
