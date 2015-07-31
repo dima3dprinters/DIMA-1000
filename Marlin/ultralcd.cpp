@@ -1262,7 +1262,7 @@ void lcd_init()
 	do {
 			u8g.drawBitmapP(5,5,DIMA_BMPBYTEWIDTH,DIMA_BMPHEIGHT,dima);
 			u8g.setFont(u8g_font_gdr12);
-			u8g.drawStr(40,55,"BOX");
+			u8g.drawStr(40,55,"1000");
 	   } while( u8g.nextPage() );
 
 #ifdef NEWPANEL
